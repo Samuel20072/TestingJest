@@ -1,0 +1,4 @@
+
+# Ignora todas las carpetas o archivos llamadas "node_modules" 
+#en cualquier lugar dentro de la carpeta principal "testingjest"
+**/node_modules

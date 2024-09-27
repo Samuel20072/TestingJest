@@ -1,0 +1,16 @@
+{
+  "name": "testingjest",
+  "version": "1.0.0",
+  "description": "testing with jest",
+  "main": "",
+  "scripts": {
+    "test": "jest",
+    "test:basico1":"jest ./prueba_basica/pruebas1.test.js",
+    "test:basico2":"jest ./prueba_basica/pruebas2.test.js"
+  },
+  "author": "kelvinocampo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
