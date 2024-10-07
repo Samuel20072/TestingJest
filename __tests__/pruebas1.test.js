@@ -1,5 +1,5 @@
 // importamos con el formato CommonJS
-const sum = require("./operaciones/sum");
+const sum = require("../operaciones/sum");
 
 // Realizamos una prueba o test
 let descripcionTest1 = "Se suma 1 + 2 y retorna 3";

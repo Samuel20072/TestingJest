@@ -5,9 +5,9 @@
   "main": "",
   "scripts": {
     "test": "jest",
-    "test:basico1":"jest ./prueba_basica/pruebas1.test.js",
-    "test:basico2":"jest ./prueba_basica/pruebas2.test.js",
-    "test:basico3":"jest ./prueba_basica/pruebas3.test.js"
+    "test:basico1": "jest ./__tests__/pruebas1.test.js",
+    "test:basico2": "jest ./__tests__/pruebas2.test.js",
+    "test:basico3": "jest ./__tests__/pruebas3.test.js"
   },
   "author": "kelvinocampo",
   "license": "ISC",

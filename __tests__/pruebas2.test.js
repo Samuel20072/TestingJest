@@ -1,7 +1,7 @@
 // Revisar pruebas1.test.js antes de lo siguiente
 
 // importamos con el formato CommonJS
-const math = require("./operaciones/math");
+const math = require("../operaciones/math");
 
 // Agrupa pruebas con describe
 describe("Suma y Resta", () => {
