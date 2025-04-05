@@ -12,6 +12,7 @@
   "author": "kelvinocampo",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "node-fetch": "^2.7.0"
   }
 }
